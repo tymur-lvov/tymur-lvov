@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&weight=500&duration=4000&&color=7072DC&center=true&vCenter=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Tymur+Lvov!" />
 </h1>
-<h3 align="center">A passionate software developer from Ukraine</h3>
+<h3 align="center">A passionate web developer from Ukraine</h3>
 <div align="center">
  
 👨‍💻 I’m currently working on a **Portfolio Project**
