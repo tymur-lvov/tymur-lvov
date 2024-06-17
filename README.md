@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer from Ukraine</h3>
 <div align="center">
  
-👨‍💻 I’m currently working on **a Portfolio Project**
+👨‍💻 I’m currently working on a **Portfolio Project**
  
 📚 I’m currently learning **Node.js**
 
