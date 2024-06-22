@@ -25,7 +25,7 @@
 <h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux" /><br>
 </div>
 <br/>
 <h2 align="center">📈 Statistics 📉</h2>
