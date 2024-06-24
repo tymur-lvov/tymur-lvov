@@ -4,7 +4,7 @@
 <h3 align="center">A passionate web developer from Ukraine</h3>
 <div align="center">
  
-👨‍💻 I’m currently working on a **Portfolio Projects**
+👨‍💻 I’m currently working on a **Portfolio Project**
  
 📚 I’m currently learning **Node.js, Express, REST API, MongoDB, Mongoose**
 
